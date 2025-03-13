@@ -1,0 +1,49 @@
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+  filter: drop-shadow(0 0 15px #8a2be2); /* Glowing effect for logo */
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 15s ease-in-out; /* Smoother and slightly faster animation */
+  }
+}
+
+.App-header {
+  background-color: rgba(255, 217, 0, 0.95); /* Semi-transparent for depth effect */
+  border: 2px solid #8a2be2; /* Stylish glowing border */
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(12px + 2vmin); /* Slightly larger text for better readability */
+  color: #ffffff;
+  box-shadow: 0 8px 20px rgba(0, 0, 0, 0.8); /* Enhanced shadow effect */
+  border-radius: 15px; /* Smooth corners for elegance */
+}
+
+.App-link {
+  color: #ff69b4; /* Eye-catching pink for links */
+  text-decoration: none;
+  transition: color 0.3s ease, transform 0.3s ease;
+}
+
+.App-link:hover {
+  color: #ff1493; /* Darker pink on hover */
+  transform: scale(1.1); /* Slight zoom effect */
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
