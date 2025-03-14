@@ -1,10 +1,5 @@
 <h2 align="center">
-  Portfolio Website live demo
-<a href="" target="_blank">Kirubakaran Portfolio</a>
-</h2>
-<div align="center">
-  <img width="960" alt="image" src="https://github.com/KIRUBAKARANEE27/portfolio/blob/main/public/me.png">
-</div>
+ 
 
 <a href="" target="_blank">Kirubakaran's Portfolio</a>
 </h2>
