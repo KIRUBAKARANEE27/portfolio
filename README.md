@@ -3,7 +3,7 @@
   <a href="https://sunilyadavportfolio.netlify.app/" target="_blank">SunilyadavPortfolio</a>
 </h2>
 <div align="center">
-  <img width="960" alt="image" src="https://user-images.githubusercontent.com/20383021/148535829-e697023d-cf9b-4873-b04c-ab33c465d085.png">
+<!--   <img width="960" alt="image" src="https://user-images.githubusercontent.com/20383021/148535829-e697023d-cf9b-4873-b04c-ab33c465d085.png"> -->
 </div>
 
 ## Built With
