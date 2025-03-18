@@ -13,9 +13,6 @@ TO SEE MY PORTFOLIO CLICK THIS LINK: https://mmyportfo.netlify.app/
 
 Welcome to my personal portfolio, a reflection of my passion for IoT, Embedded Systems, and Full-Stack Development.
 
-Explore my portfolio here: <a href="https://kirubakaranportfolio.netlify.app/" target="_blank">https://kirubakaranportfolio.netlify.app/</a><br/>
-Explore my blog for insights and technical content: <a href="http://www.logicstime.com/" target="_blank">http://www.logicstime.com/</a>
-
 This project was built using the following technologies:
 
 - **React.js**
